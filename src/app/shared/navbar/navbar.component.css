@@ -1,0 +1,17 @@
+/* NAVBAR */
+.navbar {
+  box-shadow: 0 1px 5px var(--color-gray);
+}
+.navbar-brand img {
+  max-width: 240px;
+}
+.navbar-nav {
+  margin-left: auto;
+}
+.nav-link{
+  font-weight: 600;
+  color:var(--color-dark)!important;
+}
+.nav-link:hover{
+  color:var(--color-medium)!important;
+}
